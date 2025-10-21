@@ -26,5 +26,5 @@ Siga os passos abaixo para subir e configurar seu cluster Docker Swarm.
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/denilsonbonatti/docker-projeto2-cluster.git
+git clone https://github.com/paulomelloo/projeto-dockerswarm-vagrant.git
 cd projeto-dockerswarm-vagrant
